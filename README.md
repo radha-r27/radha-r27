@@ -66,7 +66,12 @@ The two datasets customer.csv and purchase.csv are extracted using the Import fr
 **Analysis and Insights**:
 
    **1._General Observations:_**
-
+> * Customer base is spanned across 4 countries with a total of 1000 customers in 4 years
+> * Among the 4 countries, Columbia has the highest sales and highest customer base.
+> * The total purchase by Gender is higher in Columbia
+> * The income range of 25K-50K holds higher number of customer base and higher sales value
+> * The income range <25K holds lowest customer base and lowest sales value
+> * Customer base belong to Age Group of 50-60,20-30,40-50 are Top 3 contributors of Sales
 <!---
 radha-r27/radha-r27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
