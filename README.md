@@ -37,7 +37,7 @@ that happened in a span of 4 years from 2019 to 1st Jan 2023
 
 **Data Extraction**:
 
-Shopee Brazil contains two Datasets which are extracted from the Excel CSV file provided in the canvas of NTUC Learning Hub.
+Shopee Brazil contains two Datasets which are extracted from the Excel CSV file provided in the canvas.
 The two datasets customer.csv and purchase.csv are extracted using the Import from Text/CSV option available in Power BI
 
 **Data Cleaning**:
