@@ -43,36 +43,27 @@ The two datasets customer.csv and purchase.csv are extracted using the Import fr
 **Data Cleaning**:
 
  <li> Changed the type of column Income in Customer dataset to Fixed Decimal Number ($)</li>
- <li> Changed the type of Order date and Shipping Date columns to Date datatype</li>
+ <li> Changed the type of Order date and Shipping Date columns to Date datatype</li> <br>
 
-<Br></Br>
 **Data Transformation**:
-
- <li> The following columns are added in Customer Dataset : </li>
-      1. TotCustVal -> Calculates the Total Purchases made by the customer <br>
-      2. age(bins) -> Groups the age rangewise Eg.  Age group 10-20, 20-30, 40-50, 60-70 etc <br>
-      3. BinName    -> displays the Bin name according to age(bins) group <br>
-      4. income_bins -> Split the Income binwise in groups of 25k for using in the visualization <br>
-      5. IncomeBinName -> displays the income  ranging between 25K - 50K, 50K - 75K, 75K-100K, 100K-125K, 125K-150K based on the values from income_bins </li> <br>
-<li> The following columns are added in Purchase Dataset : </li>
-      1. Amtb4disc -> Calculates the value of product price & quantity <br>
-      2. DiscountAmt -> Calculates Amtb4disc * discount percent given  <br>
-      3. AmtAftDisc -> Calculates Amtb4disc - DiscountAmt  <br>
-      4. TaxValue -> Calculates AmtAftDisc + Shipping cost multiplied by the tax percent  <br>
-      5. OrderVal -> Calculates AmtAftDisc + TaxValue which gives the Sales value for the order   <br>
-     </li>
+ <li> Columns are added in Customer Dataset to: </li>
+       &nbsp &nbsp &nbsp &nbsp &nbsp1. Calculate the Total Purchases made by the customer <br>
+       &nbsp &nbsp &nbsp &nbsp &nbsp2. Group the age rangewise Eg.  Age group 10-20, 20-30, 40-50, 60-70 etc <br>
+       &nbsp &nbsp &nbsp &nbsp &nbsp3. To split the Income range in groups of 25k <br> <br>
+  <li> Columns are added in Purchase Dataset to: </li>
+       &nbsp &nbsp &nbsp &nbsp &nbsp1. Calculate the value of product price & quantity <br>
+       &nbsp &nbsp &nbsp &nbsp &nbsp2. Calculate the discount amount  <br>
+       &nbsp &nbsp &nbsp &nbsp &nbsp3. Calculate the amount after discount <br>
+       &nbsp &nbsp &nbsp &nbsp &nbsp4. Calculate the Taxable amount based on tax percentage  <br>
+       &nbsp &nbsp &nbsp &nbsp &nbsp5. Calculate the Sales value for the order   <br>
 <br>
 
 **Analysis and Insights**:
 
    **1._General Observations:_**
-> * Customer base is spanned across 4 countries with a total of 1000 customers in 4 years
-> * Among the 4 countries, Columbia has the highest sales and highest customer base.
-> * The total purchase by Gender is higher in Columbia
-> * The income range of 25K-50K holds higher number of customer base and higher sales value
-> * The income range <25K holds lowest customer base and lowest sales value
-> * Customer base belong to Age Group of 50-60,20-30,40-50 are Top 3 contributors of Sales
-<!---
-radha-r27/radha-r27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+        <li> Customer base is spanned across 4 countries with a total of 1000 customers in 4 years </li>
+        <li> Among the 4 countries, Columbia has the highest sales and highest customer base.</li>
+        <li> The total purchase by Gender is higher in Columbia </li>
+        <li> The income range of 25K-50K holds higher number of customer base and higher sales value </li>  
+        <li> The income range <25K holds lowest customer base and lowest sales value  </li>
+        <li> Customer base belong to Age Group of 50-60,20-30,40-50 are Top 3 contributors of Sales  </li>
