@@ -31,7 +31,7 @@ that happened in a span of 4 years from 2019 to 1st Jan 2023
 
 **Schema And Table Diagram**:
 
-<img width="542" alt="image" src="https://github.com/radha-r27/radha-r27/assets/144864829/01c293a7-d7ec-4eca-9217-3b15751d38c9">
+<img width="616" alt="image" src="https://github.com/radha-r27/radha-r27/assets/144864829/20e31cf7-7d95-46a8-b381-4a257d71a500">
 
 <Br></Br>
 
@@ -64,6 +64,21 @@ The two datasets customer.csv and purchase.csv are extracted using the Import fr
         <li> Customer base is spanned across 4 countries with a total of 1000 customers in 4 years </li>
         <li> Among the 4 countries, Columbia has the highest sales and highest customer base.</li>
         <li> The total purchase by Gender is higher in Columbia </li>
-        <li> The income range of 25K-50K holds higher number of customer base and higher sales value </li>  
-        <li> The income range <25K holds lowest customer base and lowest sales value  </li>
-        <li> Customer base belong to Age Group of 50-60,20-30,40-50 are Top 3 contributors of Sales  </li>
+        <li> The income range of 25K-50K holds higher number of customer base and higher sales value</li> 
+        <li> The income range <25K holds lowest customer base and lowest sales value</li>
+        <li> Customer base belong to Age Group of 50-60,20-30,40-50 are Top 3 contributors of Sales</li>
+        <Br></Br>
+    **2._Sales by Gender:_**
+     <Br></Br>
+             Male accounted for 50.35% of Sales.﻿﻿﻿﻿Total Sales was higher for Male (13,94,80,104.16) than Female (13,75,43,537.79)
+﻿﻿             ﻿﻿Colombia in Gender Male made up 14.64% of Sales.﻿﻿﻿﻿Average Sales was higher for Male (3,48,70,026.04) than Female (3,43,85,884.45)
+      <Br></Br>
+     **3._sales by Income Range:_**  <Br></Br>
+             Customers having income between 25K-50K contributes highest sales in total sales value followed by 125K-150K & 50K-75K.Lowest spending
+             nature is observed for customers with income range <25K in all the countries. Customers in the income range 50K-75K  produces highest 
+             sales in Chile and Mexico. The customers with income range 25K-50K are potential customers in Colombia where as 125K-150K are for Brazil.
+
+
+
+
+                
