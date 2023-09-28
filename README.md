@@ -16,7 +16,6 @@
 
 
 
-
 ### Customer Base Analysis for Shopee Brazil ###
 **OBJECTIVE**
 
