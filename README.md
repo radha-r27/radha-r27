@@ -12,6 +12,10 @@
 <img width="661" alt="image" src="https://github.com/radha-r27/radha-r27/assets/144864829/71a49fb0-20fa-48ad-b2d9-dcc8453bbbb8">
 
 
+<img width="661" alt="image" src="https://github.com/radha-r27/radha-r27/assets/144864829/e1c1be33-182e-4670-a51c-fb435254cb2f">
+
+
+
 
 ### Customer Base Analysis for Shopee Brazil ###
 **OBJECTIVE**
