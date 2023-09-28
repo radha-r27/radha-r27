@@ -12,7 +12,7 @@ customers.
 
 **Description of Dataset**
 
-The two datasets used in this capstone are Shoppe Brazil's Customer Dataset and Order details.
+The two datasets used in this capstone are Shoppe Brazil's Customer Dataset and Purchase Dataset.
 
 **_Customer Dataset:_**
 
