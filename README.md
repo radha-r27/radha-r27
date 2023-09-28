@@ -7,7 +7,7 @@
 
 SHOPEE BRAZIL is looking to create a customer base, enhance the customer experience and recommend relevant
 products to the customers and increase revenue as per the information present.
-The aim is to provide important insights which can be helpful for the company to better understand their
+The aim of this Capstone is to assume the role as a Data Analyst and to provide important insights that can be helpful to have a better understanding of their
 customers.
 
 **Description of Dataset**
